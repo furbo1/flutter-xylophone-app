@@ -31,7 +31,7 @@ class _XylophoneAppState extends State<XylophoneApp> {
         onPressed: () {
           playSound(soundNumber);
         },
-        child: Text(''), // You can add text or leave it empty
+        child: Text(''),
       ),
     );
   }
